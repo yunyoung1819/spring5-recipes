@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26cd34fd-a614-4694-accb-10d3edfdf1b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ch02/recipe_2_1/src/main/java/com/young/springrecipes/sequence/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/recipe_2_1/src/main/java/com/young/springrecipes/sequence/SequenceGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/recipe_2_1/src/main/java/com/young/springrecipes/sequence/config/SequenceGeneratorConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch04/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch04/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch04/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch04/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch04/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch04/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch04/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch04/src/main/java/com/appress/springrecipes/DemoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch04/src/main/java/com/appress/springrecipes/court/web/RestMemberController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch04/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch04/src/test/java/com/appress/springrecipes/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/recipe_2_1/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/recipe_2_1/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/recipe_2_1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/recipe_2_1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +45,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -58,10 +59,14 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1nTIzk6y4uJyltCJYQ8up3wPybN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -70,11 +75,26 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.young.springrecipes.sequence.Main" />
+      <module name="recipe_2_1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.young.springrecipes.sequence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -86,6 +106,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="recipe_2_1 [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ch02/recipe_2_1" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Gradle.recipe_2_1 [dependencies]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -96,11 +143,28 @@
       <option name="presentableId" value="Default" />
       <updated>1611407920392</updated>
       <workItem from="1611407921493" duration="94000" />
-      <workItem from="1613189850483" duration="357000" />
+      <workItem from="1613189850483" duration="2878000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1613190295765</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613190295765</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
