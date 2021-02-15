@@ -4,33 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26cd34fd-a614-4694-accb-10d3edfdf1b1" name="Default Changelist" comment="2장 스터디">
-      <change afterPath="$PROJECT_DIR$/ch02/recipe_2_1/src/main/java/com/young/springrecipes/sequence/Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/recipe_2_1/src/main/java/com/young/springrecipes/sequence/SequenceDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/recipe_2_1/src/main/java/com/young/springrecipes/sequence/config/SequenceDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/recipe_2_2/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/recipe_2_2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/recipe_2_2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/recipe_2_2/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/recipe_2_2/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/recipe_2_2/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/recipe_2_2/src/main/java/com/young/springrecipes/shop/Battery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/recipe_2_2/src/main/java/com/young/springrecipes/shop/Disc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/recipe_2_2/src/main/java/com/young/springrecipes/shop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/recipe_2_2/src/main/java/com/young/springrecipes/shop/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/recipe_2_2/src/main/java/com/young/springrecipes/shop/config/ShopConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch16/recipes_16_1/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch16/recipes_16_1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch16/recipes_16_1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch16/recipes_16_1/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch16/recipes_16_1/src/main/java/com/young/springrecipes/bank/InterestCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch16/recipes_16_1/src/main/java/com/young/springrecipes/bank/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch16/recipes_16_1/src/main/java/com/young/springrecipes/bank/SimpleInterestCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch16/recipes_16_1/src/test/java/com/young/springrecipes/bank/SimpleInterestCalculatorJUnit4Tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch16/recipes_16_1/src/test/java/com/young/springrecipes/bank/SimpleInterestCalculatorTestNGTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/recipe_2_1/src/main/java/com/young/springrecipes/sequence/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/recipe_2_1/src/main/java/com/young/springrecipes/sequence/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/recipe_2_1/src/main/java/com/young/springrecipes/sequence/config/SequenceGeneratorConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/recipe_2_1/src/main/java/com/young/springrecipes/sequence/config/SequenceGeneratorConfiguration.java" afterDir="false" />
+    <list default="true" id="26cd34fd-a614-4694-accb-10d3edfdf1b1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ch16/recipes_16_1/src/main/java/com/young/springrecipes/bank/InterestCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch16/recipes_16_1/src/main/java/com/young/springrecipes/bank/InterestCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -258,7 +233,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611407920392</updated>
       <workItem from="1611407921493" duration="94000" />
-      <workItem from="1613189850483" duration="13998000" />
+      <workItem from="1613189850483" duration="14137000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1613190295765</created>
@@ -274,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613192857331</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="16장 스프링 테스트 스터디">
+      <created>1613399055338</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613399055338</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,7 +266,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="init commit" />
     <MESSAGE value="2장 스터디" />
-    <option name="LAST_COMMIT_MESSAGE" value="2장 스터디" />
+    <MESSAGE value="16장 스프링 테스트 스터디" />
+    <option name="LAST_COMMIT_MESSAGE" value="16장 스프링 테스트 스터디" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
