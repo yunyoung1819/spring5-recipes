@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26cd34fd-a614-4694-accb-10d3edfdf1b1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ch16/recipes_16_1/src/main/java/com/young/springrecipes/bank/InterestCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch16/recipes_16_1/src/main/java/com/young/springrecipes/bank/InterestCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/recipe_2_3/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/recipe_2_3/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/recipe_2_3/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/recipe_2_3/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/recipe_2_3/src/main/java/com/young/springrecipes/sequence/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/recipe_2_1/src/main/java/com/young/springrecipes/sequence/Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/recipe_2_1/src/main/java/com/young/springrecipes/sequence/Sequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/recipe_2_3/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/recipe_2_3/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/recipe_2_3/src/main/java/com/young/springrecipes/sequence/Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/recipe_2_3/src/main/java/com/young/springrecipes/sequence/Sequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/recipe_2_3/src/main/java/com/young/springrecipes/sequence/SequenceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/recipe_2_3/src/main/java/com/young/springrecipes/sequence/SequenceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/recipe_2_3/src/main/java/com/young/springrecipes/sequence/config/SequenceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/recipe_2_3/src/main/java/com/young/springrecipes/sequence/config/SequenceConfiguration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +30,9 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/ch02/recipe_2_2">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/ch02/recipe_2_3">
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/ch03/recipe_3_1">
@@ -38,12 +51,39 @@
         <task path="$PROJECT_DIR$/ch02/recipe_2_2">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$/ch02/recipe_2_3">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="recipe_2_1" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="recipe_2_2" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="recipe_2_2" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="recipe_2_3" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="recipe_2_3" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="recipe_2_3" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="compileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
               </path>
             </expand>
             <select />
@@ -97,59 +137,50 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
-  <component name="RunManager" selected="Gradle.SimpleInterestCalculatorTestNGTests">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.young.springrecipes.sequence" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.recipe_2_3 [dependencies]">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.young.springrecipes.sequence.Main" />
+      <module name="recipe_2_3.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.young.springrecipes.sequence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.young.springrecipes.shop.Main" />
+      <module name="recipe_2_2.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.young.springrecipes.shop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="SimpleInterestCalculatorJUnit4Tests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/ch16/recipes_16_1" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.young.springrecipes.bank.SimpleInterestCalculatorJUnit4Tests&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="SimpleInterestCalculatorJUnit4Tests.calculate" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/ch16/recipes_16_1" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.young.springrecipes.bank.SimpleInterestCalculatorJUnit4Tests.calculate&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
     </configuration>
     <configuration name="SimpleInterestCalculatorTestNGTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -172,23 +203,23 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="SimpleInterestCalculatorTestNGTests.calculate" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="recipe_2_3 [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/ch16/recipes_16_1" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ch02/recipe_2_3" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.young.springrecipes.bank.SimpleInterestCalculatorTestNGTests.calculate&quot;" />
+        <option name="scriptParameters" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value=":test" />
+            <option value="dependencies" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
@@ -216,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.recipe_2_3 [dependencies]" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Gradle.SimpleInterestCalculatorTestNGTests" />
         <item itemvalue="Gradle.recipes_16_1 [dependencies]" />
-        <item itemvalue="Gradle.SimpleInterestCalculatorTestNGTests.calculate" />
-        <item itemvalue="Gradle.SimpleInterestCalculatorJUnit4Tests" />
-        <item itemvalue="Gradle.SimpleInterestCalculatorJUnit4Tests.calculate" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +264,8 @@
       <option name="presentableId" value="Default" />
       <updated>1611407920392</updated>
       <workItem from="1611407921493" duration="94000" />
-      <workItem from="1613189850483" duration="14137000" />
+      <workItem from="1613189850483" duration="14767000" />
+      <workItem from="1613814922770" duration="1594000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1613190295765</created>
@@ -256,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613399055338</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="16장 스프링 테스트 스터디">
+      <created>1613399108443</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613399108443</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

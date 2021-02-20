@@ -22,5 +22,5 @@ public class Sequence {
 
     public String getSuffix() {
         return suffix;
-     }
+    }
 }

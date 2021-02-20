@@ -1,6 +1,9 @@
 package com.young.springrecipes.sequence.config;
 
+import com.sun.tools.corba.se.idl.SequenceGen;
 import com.young.springrecipes.sequence.SequenceGenerator;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class SequenceConfiguration {
