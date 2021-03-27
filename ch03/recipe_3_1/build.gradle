@@ -1,21 +1,12 @@
-apply plugin: 'java'
-apply plugin: 'eclipse'
-apply plugin: 'application'
+plugins {
+    id "org.akhikhl.gretty" version "2.0.0"
+}
 
-mainClassName = "com.young.spring.court.Main"
+apply plugin: 'war'
+apply plugin: 'org.akhikhl.gretty'
 
 repositories {
     mavenCentral()
-}
-
-jar {
-    baseName = "${rootProject.name}"
-    version =  "0.0.1-SNAPSHOT"
-    manifest {
-        attributes "Implementation-Title": "${rootProject.name}",
-                "Implementation-Version": version,
-                "Main-Class": "${mainClassName}"
-    }
 }
 
 sourceCompatibility = 1.8
@@ -32,5 +23,7 @@ dependencies {
     compile "org.springframework:spring-context:${springVersion}"
     compile "org.springframework:spring-beans:${springVersion}"
     compile "org.springframework:spring-webmvc:${springVersion}"
+    compile "javax.servlet:javax.servlet-api:4.0.0"
+    compile "javax.servlet:jstl:1.2"
     compile "org.slf4j:slf4j-simple:1.7.25"
 }

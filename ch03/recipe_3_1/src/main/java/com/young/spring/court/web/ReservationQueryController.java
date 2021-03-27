@@ -33,5 +33,6 @@ public class ReservationQueryController {
 
         model.addAttribute("reservations", reservations);
         return "reservationQuery";
+
     }
 }
